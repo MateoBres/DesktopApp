@@ -66,6 +66,4 @@ lista1 = tk.Listbox()
 lista1.place(x=10, y=200, width=300, height=250)
 
 
-
-
 ventana.mainloop()
